@@ -1,0 +1,55 @@
+[{
+        "name": "images",
+        "extensions": ["png", "jpg", "jpeg", "gif", "webp", "dng"],
+        "folder": "images",
+        "fmaxsize": 500
+    },
+    {
+        "name": "docs",
+        "extensions": ["pdf", "txt", "doc", "docx", "xls", "xlsx", "ppt", "pptx", "csv"],
+        "folder": "docs",
+        "fmaxsize": 500
+    },
+    {
+        "name": "code",
+        "extensions": ["sh", "java", "cs", "py", "js", "html", "css", "cshtml", "json"],
+        "folder": "code",
+        "fmaxsize": 500
+    },
+    {
+        "name": "archives",
+        "extensions": ["zip", "rar", "gz", "tar", "gzip"],
+        "folder": "archives",
+        "fmaxsize": 500
+    },
+    {
+        "name": "installers",
+        "extensions": ["exe", "dpkg", "dmg", "app", "msi", "pkg"],
+        "folder": "installers",
+        "fmaxsize": 500
+    },
+    {
+        "name": "torrent",
+        "extensions": ["torrent"],
+        "folder": "torrent",
+        "fmaxsize": 500
+    },
+    {
+        "name": "videos",
+        "extensions": ["mp4", "mkv"],
+        "folder": "videos",
+        "fmaxsize": 500
+    },
+    {
+        "name": "music",
+        "extensions": ["mp3", "flac"],
+        "folder": "music",
+        "fmaxsize": 500
+    },
+    {
+        "name": "subtitles",
+        "extensions": ["srt"],
+        "folder": "subtitles",
+        "fmaxsize": 500
+    }
+]
